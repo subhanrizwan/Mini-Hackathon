@@ -249,3 +249,17 @@ height: 100vh !important;
     background-color: #603F83;
     border-color: #603F83;
 }
+#creatclass{
+	animation: mymove 2s;
+
+}
+#logo-name{
+	font-family: Sriracha;
+}
+@keyframes mymove{
+    from{left:-100px}
+    to{left:90px}
+}
+.btn-success{
+	background-color: #603F83;
+}

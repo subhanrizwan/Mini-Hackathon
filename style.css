@@ -142,6 +142,10 @@ input[type="password"] {
 #Login-user:hover{
     background-color: rgb(166, 163, 163);
 }
+#logo-name{
+    font-family: Sriracha
+    ;
+}
 
 #loader {
     /* background-color: #8ac642; */

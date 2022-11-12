@@ -72,3 +72,14 @@ window.onload = async()=>{
     //   console.log(doc.id, " => ", doc.data());
     })
   }
+
+//   let cardss = document.querySelector('.cards-child2')
+// window.onload = async()=>{
+//     const q = (collection(db, "Student"))
+//     const querySnapshot = await getDocs(q)
+//     querySnapshot.forEach((doc) => {
+//     console.log(doc.data());
+   
+//     //   console.log(doc.id, " => ", doc.data());
+//     })
+//   }

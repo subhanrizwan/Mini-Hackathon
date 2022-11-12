@@ -59,13 +59,13 @@ student.addEventListener("click",async()=>{
     // console.log(Classes_Timings.value);
 
     const docRef = await addDoc(collection(db,"Student"), {
-        input1:Name.value,
-        input2:Father_Name.value,
-        input3:roll.value,
-        input4:contact.value,
-        input5:Cnic.value,
-        input6:Course.value,
-        input6:Section.value,
+        input11:Name.value,
+        input22:Father_Name.value,
+        input33:roll.value,
+        input44:contact.value,
+        input55:Cnic.value,
+        input66:Course.value,
+        input77:Section.value,
         
       });
       swal("Student Registered", "you have registered", "success");

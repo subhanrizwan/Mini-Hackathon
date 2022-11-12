@@ -224,6 +224,9 @@ height: 100vh !important;
     line-height: 1.5;
     border-radius: 0.3rem;
 }
+#logo-name{
+	font-family: Sriracha;
+}
 .btn-success {
     position: relative;
     top: 30px;
